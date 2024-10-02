@@ -1,19 +1,3 @@
-// CS201R_PGM4_Games.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-// NAME: SHRUTHIKA UDUTHURI
-// DATE: 19/09/2024
-// PROGRAM: Games
-// This assignment was written with the help of LLM's
-
-/* Prompt: Write a boiler plate C++ code to develop the following games.
-1. Craps
-2. Scraps
-3. Rock, Paper & Scissors
-4. Rock, Paper, Scissors & Spock
-5. BlackJack
-6. Hangman
-*/
-
 #include "Games.h"
 #include "Functions.h"
 
